@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  ManualLanguageСhange
+
+  Created by Ostap Artym on 08.02.2024.
+  
+*/
+//"MainPageTitle" (key) = "Hello World!"; (value)
+
+"MainPageTitle" = "Hello World!";
